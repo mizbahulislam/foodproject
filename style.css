@@ -1,0 +1,108 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+}
+.section-top{
+    display: flex;
+    margin-top: 20px;
+}
+.skip-color{
+color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.text{
+    margin-top: 10%;
+    padding-top: 40px;
+}
+.half-width p{
+    margin-bottom: 10%;
+   
+}
+.order-food{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 45px;
+    border-radius: 60px;
+    box-shadow:10px 10px 20px orange;
+}
+
+.second-row{
+    display:flex;
+    background-image: url(img/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.second-col{
+    width: 50%;
+    padding-left: 5%;
+}
+.second-col img{
+    width: 60%;
+}
+.second-text{
+    margin-top: 5%;
+}
+.second-col p{
+    margin-bottom: 10%;
+}
+.contact-btn{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 45px;
+    border-radius: 60px;
+    box-shadow:10px 10px 20px orange;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+.out-p{
+    width: 500px;
+    text-align: center;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+.third-row{
+    display: flex;
+    margin-left: 2%;
+}
+.third-col{
+    width: 28%;
+    margin-left: 4%;
+}
+.third-elm{
+    border: 15px solid white;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
+.third-elm img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+    padding: 20px;
+}
+footer span{
+    color: orange;
+}
+footer h3{
+    color: lightblue;
+}
+footer p{
+    color: wheat;
+}
